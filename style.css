@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0;}
+
+
+table {
+    border-collapse: collapse;
+    background-color: beige;
+    width: 1000px;}
+
+td, th {
+    padding: 10px;
+    border: 2px solid black;}
+caption {
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;}    
+h3 { 
+    text-align: center;}
+h3:hover {
+    color:blue}
+
+th {
+        background-color: rgb(218, 170, 170);}
+
